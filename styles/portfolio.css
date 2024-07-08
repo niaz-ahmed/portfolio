@@ -117,6 +117,7 @@ main section{
   background-color: white;
   border: 1px solid;
   padding: 0px 10px;
+  border-radius: 10px;
 }
 
 .about-items {
